@@ -6,6 +6,16 @@
 
  For git basics & tips & tricks - [click me](https://github.com/catalinpit/git_tips_tricks)! 🖱️
 
+**WHAT ARE YOU GOING TO LEARN**
+
+* The git workflow required for working on open-source projects
+* Working in a team
+
+**WHAT ARE YOU NOT GOING TO LEARN**
+
+* How to use git
+* How to code
+
 # STEP 1 - FORK THIS REPOSITORY 🍴
 
 For this repository by clicking on the fork button. 
@@ -61,6 +71,15 @@ Once you have added your name and Twitter handle, run in your terminal:
 2. `git commit -m "Added my name and twitter handle"` (this represent the message that explains what you did)
 
 3. `git push origin <your-branch-name>` (push your changes to Github)
+
+# STEP 5 - OPEN A PULL REQUEST (PR) 🔍
+
+The purpose of a pull request is to show to other developers the changes you did.
+
+Also, they review your code to make sure your code is optimal.
+
+Once your PR is approved, you can merge your changes to master.
+
 
 # CONTRIBUTORS 🧑‍🤝‍🧑
 
