@@ -80,8 +80,8 @@ Also, they review your code to make sure your code is optimal.
 
 Once your PR is approved, you can merge your changes to master.
 
-
 # CONTRIBUTORS 🧑‍🤝‍🧑
 
 Add your name and Twitter handle. 🐦
 
+* Catalin Pit 🚀💡 => Twitter: [@catalinmpit](https://twitter.com/catalinmpit) 🐦
