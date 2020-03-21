@@ -88,7 +88,9 @@ Also, they review your code to make sure your code is optimal.
 
 ![open-pr](https://i.imgur.com/Wq0SeLA.png?1)
 
-3. Wait for me to merge your changes to the master change. They will become live once I merge them.
+3. Click on `Create pull request`.
+4. 
+5. Wait for me to merge your changes to the master change. They will become live once I merge them.
 
 **Congratulations!** This is the required Git workflow to contribute to open source projects.
 
