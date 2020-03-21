@@ -103,3 +103,4 @@ Go over my repos, and if you see any typos & programming bugs/errors, open a PR.
 Add your name and Twitter handle. 🐦
 
 * Catalin Pit 🚀💡 => Twitter: [@catalinmpit](https://twitter.com/catalinmpit) 🐦
+* Danny Wolff 🚀💡 => Twitter: [@Inshi78946780](https://twitter.com/Inshi78946780) 🐦
