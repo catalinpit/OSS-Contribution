@@ -20,9 +20,9 @@
 
 # STEP 1 - FORK THIS REPOSITORY 🍴
 
-For this repository by clicking on the fork button. 
+For this repository by clicking on the fork button.
 
-When you fork a repository, you simply create a copy the repo on your account. 
+When you fork a repository, you simply create a copy the repo on your account.
 
 ![fork-example](https://i.imgur.com/25zTC2z.png)
 
@@ -46,7 +46,7 @@ In your case, you would replace *catalinpit* with your username.
 
 # STEP 3 - CREATE A BRANCH 🌲
 
-First of all, open the repository in your editor. 
+First of all, open the repository in your editor.
 
 Then, create a branch as follows:
 
@@ -96,10 +96,11 @@ Also, they review your code to make sure your code is optimal.
 
 # EXTRA TIPS
 
-Go over my repos, and if you see any typos & programming bugs/errors, open a PR. 🥳 
+Go over my repos, and if you see any typos & programming bugs/errors, open a PR. 🥳
 
 # CONTRIBUTORS 🧑‍🤝‍🧑
 
 Add your name and Twitter handle. 🐦
 
 * Catalin Pit 🚀💡 => Twitter: [@catalinmpit](https://twitter.com/catalinmpit) 🐦
+* Oteri Eyenike 🔥🚀 => Twitter: [@codeg0d](https://twitter.com/codeg0d)
