@@ -6,6 +6,8 @@
 
  For git basics & tips & tricks - [click me](https://github.com/catalinpit/git_tips_tricks)! 🖱️
 
+ 👀 *Go to the [CONTRIBUTORS](#contributors-%f0%9f%a7%91%e2%80%8d%f0%9f%a4%9d%e2%80%8d%f0%9f%a7%91) to see who contributed!* 👀
+
 **WHAT ARE YOU GOING TO LEARN**
 
 * The git workflow required for working on open-source projects
@@ -78,7 +80,21 @@ The purpose of a pull request is to show to other developers the changes you did
 
 Also, they review your code to make sure your code is optimal.
 
-Once your PR is approved, you can merge your changes to master.
+1. Once you pushed your changes to Github, go to the repo and click on `Compare & pull request`.
+
+![open-pr](https://i.imgur.com/PsG0WtD.png)
+
+2. Add a descriptive title and description
+
+![open-pr](https://i.imgur.com/Wq0SeLA.png?1)
+
+3. Wait for me to merge your changes to the master change. They will become live once I merge them.
+
+**Congratulations!** This is the required Git workflow to contribute to open source projects.
+
+# EXTRA TIPS
+
+Go over my repos, and if you see any typos & programming bugs/errors, open a PR. 🥳 
 
 # CONTRIBUTORS 🧑‍🤝‍🧑
 
