@@ -6,7 +6,7 @@
 
  For git basics & tips & tricks - [click me](https://github.com/catalinpit/git_tips_tricks)! 🖱️
 
- 👀 *Go to the [CONTRIBUTORS](#contributors) to see who contributed!* 👀
+ 👀 *Go to the end of the file to see who contributed!* 👀
 
 **WHAT ARE YOU GOING TO LEARN**
 
