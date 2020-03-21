@@ -1,28 +1,28 @@
 # OSS-Contribution 🔥
 
- Learn how to contribute to open-source projects. 🚀
+Learn how to contribute to open-source projects. 🚀
 
- You'll learn the git workflow required to contribute to open-source projects. ⚡
+You'll learn the git workflow required to contribute to open-source projects. ⚡
 
- For git basics & tips & tricks - [click me](https://github.com/catalinpit/git_tips_tricks)! 🖱️
+For git basics & tips & tricks - [click me](https://github.com/catalinpit/git_tips_tricks)! 🖱️
 
- 👀 *Go to the end of the file to see who contributed!* 👀
+👀 _Go to the end of the file to see who contributed!_ 👀
 
 **WHAT ARE YOU GOING TO LEARN**
 
-* The git workflow required for working on open-source projects
-* Working in a team
+- The git workflow required for working on open-source projects
+- Working in a team
 
 **WHAT ARE YOU NOT GOING TO LEARN**
 
-* How to use git
-* How to code
+- How to use git
+- How to code
 
 # STEP 1 - FORK THIS REPOSITORY 🍴
 
-For this repository by clicking on the fork button. 
+For this repository by clicking on the fork button.
 
-When you fork a repository, you simply create a copy the repo on your account. 
+When you fork a repository, you simply create a copy the repo on your account.
 
 ![fork-example](https://i.imgur.com/25zTC2z.png)
 
@@ -42,11 +42,11 @@ In my case, it would be:
 
 `git clone https://github.com/catalinpit/OSS-Contribution.git`
 
-In your case, you would replace *catalinpit* with your username.
+In your case, you would replace _catalinpit_ with your username.
 
 # STEP 3 - CREATE A BRANCH 🌲
 
-First of all, open the repository in your editor. 
+First of all, open the repository in your editor.
 
 Then, create a branch as follows:
 
@@ -58,7 +58,7 @@ An example would be:
 
 The name of your branch should be short and descriptive. The branch above is just an example, but it can be called however you want.
 
-It should describe the purpose of your changes though. I chose that name because I added my name to the README (*what you'll do as well*).
+It should describe the purpose of your changes though. I chose that name because I added my name to the README (_what you'll do as well_).
 
 # STEP 4 - MAKE YOUR CHANGES ✍️
 
@@ -96,11 +96,12 @@ Also, they review your code to make sure your code is optimal.
 
 # EXTRA TIPS
 
-Go over my repos, and if you see any typos & programming bugs/errors, open a PR. 🥳 
+Go over my repos, and if you see any typos & programming bugs/errors, open a PR. 🥳
 
 # CONTRIBUTORS 🧑‍🤝‍🧑
 
 Add your name and Twitter handle. 🐦
 
-* Catalin Pit 🚀💡 => Twitter: [@catalinmpit](https://twitter.com/catalinmpit) 🐦
-* Danny Wolff 🚀💡 => Twitter: [@Inshi78946780](https://twitter.com/Inshi78946780) 🐦
+- Catalin Pit 🚀💡 => Twitter: [@catalinmpit](https://twitter.com/catalinmpit) 🐦
+- Danny Wolff 🚀💡 => Twitter: [@Inshi78946780](https://twitter.com/Inshi78946780) 🐦
+- Tanvesh Sarve 💡 => Twitter: [@Sarve\_\_\_tanvesh](https://twitter.com/Sarve___tanvesh)
