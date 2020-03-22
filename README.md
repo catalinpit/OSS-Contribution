@@ -107,6 +107,5 @@ Added-my-name-to-contributors
 * Oteri Eyenike 🚀💡 => Twitter: [@codeg0d](https://twitter.com/codeg0d) 🐦
 * Danny Wolff 🚀💡 => Twitter: [@Inshi78946780](https://twitter.com/Inshi78946780) 🐦
 * Minerva Long 🚀💡 => Twitter: [@vanesa_minerva](https://twitter.com/vanesa_minerva) 🐦
-
 * Samson Samuel 🚀💡 => Twitter: [@torsami77](https://twitter.com/torsami77) 🐦
-
+* Waheed Afolabi 🚀💡 => Twitter: [@checkwithwaheed](https://twitter.com/checkwithwaheed) 🐦
