@@ -112,3 +112,4 @@ Added-my-name-to-contributors
 * Milos Rancic 🚀💡 => Twitter: [@milos_rancic](https://twitter.com/milos_rancic) 🐦
 * Tharun Reddy 🚀💡=> Twitter: [@__tharun__](https://twitter.com/__tharun__)
 * Ishaan Sheikh 🚀💡=> Twitter: [@imishaan005](https://twitter.com/imishaan005)
+* Omolewa Stephen 🚀💡=> Twitter: [@theslimsteve](https://twitter.com/theslimsteve)
