@@ -115,3 +115,4 @@ Added-my-name-to-contributors
 * Ishaan Sheikh 🚀💡=> Twitter: [@imishaan005](https://twitter.com/imishaan005)
 * Omolewa Stephen 🚀💡=> Twitter: [@theslimsteve](https://twitter.com/theslimsteve)
 * Cory Runnells 🚀💡=> Twitter: [@XRayBound](https://twitter.com/XRayBound)
+* Taylor Covington 🚀💡=> Twitter: [@codewithtaylor](https://twitter.com/codewithtaylor)
