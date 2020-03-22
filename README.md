@@ -110,3 +110,4 @@ Added-my-name-to-contributors
 
 * Samson Samuel 🚀💡 => Twitter: [@torsami77](https://twitter.com/torsami77) 🐦
 
+* Lucas Neves Pereira 🚀💡 => Twitter: [@lucaasnp_](https://twitter.com/lucaasnp_) 🐦
