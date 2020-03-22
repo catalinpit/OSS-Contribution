@@ -114,3 +114,4 @@ Added-my-name-to-contributors
 * Tharun Reddy 🚀💡=> Twitter: [@__tharun__](https://twitter.com/__tharun__)
 * Ishaan Sheikh 🚀💡=> Twitter: [@imishaan005](https://twitter.com/imishaan005)
 * Omolewa Stephen 🚀💡=> Twitter: [@theslimsteve](https://twitter.com/theslimsteve)
+* Cory Runnells 🚀💡=> Twitter: [@XRayBound](https://twitter.com/XRayBound)
