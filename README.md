@@ -111,11 +111,11 @@ Add your name and Twitter handle. 🐦
 - Mahesh Jamdade 🚀💡 => Twitter: [@maheshmnj](https://twitter.com/maheshmnj) 💙
 - Waheed Afolabi 🚀💡 => Twitter: [@checkwithwaheed](https://twitter.com/checkwithwaheed) 🐦
 - Milos Rancic 🚀💡 => Twitter: [@milos_rancic](https://twitter.com/milos_rancic) 🐦
-- Tharun Reddy 🚀💡=> Twitter: [@**tharun**](https://twitter.com/__tharun__)
-- Ishaan Sheikh 🚀💡=> Twitter: [@imishaan005](https://twitter.com/imishaan005)
-- Omolewa Stephen 🚀💡=> Twitter: [@theslimsteve](https://twitter.com/theslimsteve)
-- Cory Runnells 🚀💡=> Twitter: [@XRayBound](https://twitter.com/XRayBound)
+- Tharun Reddy 🚀💡=> Twitter: [@**tharun**](https://twitter.com/__tharun__)🐦
+- Ishaan Sheikh 🚀💡=> Twitter: [@imishaan005](https://twitter.com/imishaan005)🐦
+- Omolewa Stephen 🚀💡=> Twitter: [@theslimsteve](https://twitter.com/theslimsteve)🐦
+- Cory Runnells 🚀💡=> Twitter: [@XRayBound](https://twitter.com/XRayBound)🐦
 - Wasif Baliyan 🚀💡=> Twitter: [@wasifbaliyan](https://twitter.com/wasifbaliyan)
 - Saif Ullah Sajid 🚀💡 => Twitter: [@saifcodes](https://twitter.com/saifcodes) 🐦
-- Matthew Terrill => Twitter: [@meterrill](https://twitter.com/meterrill)
-- Dowen Robinson 🚀💡 => Twitter [@yuhmadda](https://twitter.com/yuhmadda)
+- Matthew Terrill => Twitter: [@meterrill](https://twitter.com/meterrill)🐦
+- Dowen Robinson 🚀💡 => Twitter [@yuhmadda](https://twitter.com/yuhmadda)🐦
