@@ -56,7 +56,7 @@ An example would be:
 
 `git checkout -b "Added_My_Name_To_README"`
 
-The name of your branch should be short and descriptive. The branch above is just an example, but it can be called however you want.
+The name of your branch should be short and descriptive. The branch above is just an example, but it can be called whatever you want.
 
 It should describe the purpose of your changes though. I chose that name because I added my name to the README (_what you'll do as well_).
 
@@ -70,17 +70,17 @@ Once you have added your name and Twitter handle, run in your terminal:
 
 1. `git add README.md` (it represents the file where you made the change)
 
-2. `git commit -m "Added my name and twitter handle"` (this represent the message that explains what you did)
+2. `git commit -m "Added my name and twitter handle"` (this represents the message that explains what you did)
 
 3. `git push origin <your-branch-name>` (push your changes to Github)
 
 # STEP 5 - OPEN A PULL REQUEST (PR) 🔍
 
-The purpose of a pull request is to show to other developers the changes you did.
+The purpose of a pull request is to show other developers the changes you did.
 
 Also, they review your code to make sure your code is optimal.
 
-1. Once you pushed your changes to Github, go to the repo and click on `Compare & pull request`.
+1. Once you push your changes to Github, go to the repo and click on `Compare & pull request`.
 
 ![open-pr](https://i.imgur.com/PsG0WtD.png)
 
