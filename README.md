@@ -103,7 +103,6 @@ Go over my repos, and if you see any typos & programming bugs/errors, open a PR.
 Add your name and Twitter handle. 🐦
 
 - Catalin Pit 🚀💡 => Twitter: [@catalinmpit](https://twitter.com/catalinmpit) 🐦
-  Added-my-name-to-contributors
 - Oteri Eyenike 🚀💡 => Twitter: [@codeg0d](https://twitter.com/codeg0d) 🐦
 - Danny Wolff 🚀💡 => Twitter: [@Inshi78946780](https://twitter.com/Inshi78946780) 🐦
 - Minerva Long 🚀💡 => Twitter: [@vanesa_minerva](https://twitter.com/vanesa_minerva) 🐦
@@ -119,4 +118,5 @@ Add your name and Twitter handle. 🐦
 - Saif Ullah Sajid 🚀💡 => Twitter: [@saifcodes](https://twitter.com/saifcodes) 🐦
 - Matthew Terrill => Twitter: [@meterrill](https://twitter.com/meterrill)🐦
 - Dowen Robinson 🚀💡 => Twitter [@yuhmadda](https://twitter.com/yuhmadda)🐦
-- Yassh Ramchandani 🚀💡 => Twitter: [@r_yassh](https://twitter.com/R_Yassh) 
+- Fumi Adeyemi 🚀💡 => Twitter [@fumiadeyemi](https://twitter.com/fumiadeyemi)🐦
+- Yassh Ramchandani 🚀💡 => Twitter: [@r_yassh](https://twitter.com/R_Yassh) 🐦
