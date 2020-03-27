@@ -121,3 +121,4 @@ Add your name and Twitter handle. 🐦
 - Fumi Adeyemi 🚀💡 => Twitter [@fumiadeyemi](https://twitter.com/fumiadeyemi)🐦
 - Tolulope Adetula 🚀💡 => Twitter [@_tolu_lope](https://twitter.com/_tolu_lope)🐦
 - Stefan Natter 🚀💡 => Twitter [@natterstefan](https://twitter.com/natterstefan)🐦
+- Jeremy Nikolic 🚀💡 => Twitter [@jeremy__nikolic](https://twitter.com/jeremy__nikolic)🚀
