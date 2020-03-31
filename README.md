@@ -122,3 +122,4 @@ Add your name and Twitter handle. 🐦
 - Tolulope Adetula 🚀💡 => Twitter [@_tolu_lope](https://twitter.com/_tolu_lope)🐦
 - Stefan Natter 🚀💡 => Twitter [@natterstefan](https://twitter.com/natterstefan)🐦
 - Jeremy Nikolic 🚀💡 => Twitter [@jeremy__nikolic](https://twitter.com/jeremy__nikolic)🚀
+- Kabir Nazir 🚀💡 => Twitter: [@kabir4691](https://twitter.com/kabir4691) 🐦
