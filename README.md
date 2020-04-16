@@ -124,3 +124,4 @@ Add your name and Twitter handle. 🐦
 - Jeremy Nikolic 🚀💡 => Twitter [@jeremy__nikolic](https://twitter.com/jeremy__nikolic)🚀
 - Kabir Nazir 🚀💡 => Twitter: [@kabir4691](https://twitter.com/kabir4691) 🐦
 - Jerónimo Cosiío 🚀💡 => Twitter: [@jerocosio](https://twitter.com/jerocosio) 🐦
+- Oluwapelumi Amuzu 🚀💡 => Twitter: [@livingArete](https://twitter.com/livingarete) 🐦
