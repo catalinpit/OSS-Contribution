@@ -62,9 +62,9 @@ It should describe the purpose of your changes though. I chose that name because
 
 # STEP 4 - MAKE YOUR CHANGES ✍️
 
-Open the file called **README.md** and add your name and your Twitter handle.
-
-You should add that info at the end of [CONTRIBUTORS](#contributors-%f0%9f%a7%91%e2%80%8d%f0%9f%a4%9d%e2%80%8d%f0%9f%a7%91).
+1. Open the file called `README.md`
+1. Find the [CONTRIBUTORS](#contributors-) section.
+1. Add your name **RANDOMLY** in the list to avoid merge conflicts
 
 Once you have added your name and Twitter handle, run in your terminal:
 
@@ -129,3 +129,5 @@ Add your name and Twitter handle. 🐦
 - Alexandra Caulea 🚀💡 => Twitter: [@alexandracaulea](https://twitter.com/alexandracaulea) 🐦
 - Sobhy => Twitter: [@ThisIsSobhy](https://twitter.com/ThisIsSobhy)
 - Unai => 🚀💡 => Twitter: [@unaizuluaga](https://twitter.com/unaizuluaga) 🐦
+- Astrit Malsija => Twitter: [@astritmalsija](https://twitter.com/astritmalsija)
+- Mateusz Wszola 🚀💡=> Twitter: [@MateuszWszola](https://twitter.com/MateuszWszola) 😎
