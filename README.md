@@ -64,7 +64,7 @@ It should describe the purpose of your changes though. I chose that name because
 
 1. Open the file called `README.md`
 1. Find the [CONTRIBUTORS](#contributors-) section.
-1. Add your name **RANDOMLY** in the list to avoid merge conflicts
+1. ### Add your name **RANDOMLY** in the list to avoid merge conflicts
 
 Once you have added your name and Twitter handle, run in your terminal:
 
