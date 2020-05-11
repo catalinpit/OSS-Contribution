@@ -130,3 +130,4 @@ Add your name and Twitter handle. 🐦
 - Sobhy => Twitter: [@ThisIsSobhy](https://twitter.com/ThisIsSobhy)
 - Astrit Malsija => Twitter: [@astritmalsija](https://twitter.com/astritmalsija)
 - Mateusz Wszola 🚀💡=> Twitter: [@MateuszWszola](https://twitter.com/MateuszWszola) 😎
+- Alin Pisica 🔥💡 => Twitter: [@AlinP25](https://twitter.com/AlinP25) 😸
