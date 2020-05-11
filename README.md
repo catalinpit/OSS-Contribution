@@ -121,6 +121,7 @@ Add your name and Twitter handle. 🐦
 - Fumi Adeyemi 🚀💡 => Twitter [@fumiadeyemi](https://twitter.com/fumiadeyemi)🐦
 - Tolulope Adetula 🚀💡 => Twitter [@_tolu_lope](https://twitter.com/_tolu_lope)🐦
 - Stefan Natter 🚀💡 => Twitter [@natterstefan](https://twitter.com/natterstefan)🐦
+- Christina Meador 🚀💡 => Twitter [@ChristinaM_Dev](https://twitter.com/ChristinaM_Dev)🐦
 - Jeremy Nikolic 🚀💡 => Twitter [@jeremy__nikolic](https://twitter.com/jeremy__nikolic)🚀
 - Kabir Nazir 🚀💡 => Twitter: [@kabir4691](https://twitter.com/kabir4691) 🐦
 - Jerónimo Cosiío 🚀💡 => Twitter: [@jerocosio](https://twitter.com/jerocosio) 🐦
