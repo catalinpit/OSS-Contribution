@@ -103,7 +103,7 @@ Go over my repos, and if you see any typos & programming bugs/errors, open a PR.
 Add your name and Twitter handle. 🐦
 
 - Catalin Pit 🚀💡 => Twitter: [@catalinmpit](https://twitter.com/catalinmpit) 🐦
-- Eddy Vinck 🚀💡 => Twitter: [@veinq_](https://twitter.com/veinq_) 🐦
+- Eddy Vinck 🚀💡 => Twitter: [@veinq\_](https://twitter.com/veinq_) 🐦
 - Oteri Eyenike 🚀💡 => Twitter: [@codeg0d](https://twitter.com/codeg0d) 🐦
 - Danny Wolff 🚀💡 => Twitter: [@Inshi78946780](https://twitter.com/Inshi78946780) 🐦
 - Minerva Long 🚀💡 => Twitter: [@vanesa_minerva](https://twitter.com/vanesa_minerva) 🐦
@@ -121,10 +121,10 @@ Add your name and Twitter handle. 🐦
 - Matthew Terrill => Twitter: [@meterrill](https://twitter.com/meterrill)🐦
 - Dowen Robinson 🚀💡 => Twitter [@yuhmadda](https://twitter.com/yuhmadda)🐦
 - Fumi Adeyemi 🚀💡 => Twitter [@fumiadeyemi](https://twitter.com/fumiadeyemi)🐦
-- Tolulope Adetula 🚀💡 => Twitter [@_tolu_lope](https://twitter.com/_tolu_lope)🐦
+- Tolulope Adetula 🚀💡 => Twitter [@\_tolu_lope](https://twitter.com/_tolu_lope)🐦
 - Stefan Natter 🚀💡 => Twitter [@natterstefan](https://twitter.com/natterstefan)🐦
 - Christina Meador 🚀💡 => Twitter [@ChristinaM_Dev](https://twitter.com/ChristinaM_Dev)🐦
-- Jeremy Nikolic 🚀💡 => Twitter [@jeremy__nikolic](https://twitter.com/jeremy__nikolic)🚀
+- Jeremy Nikolic 🚀💡 => Twitter [@jeremy\_\_nikolic](https://twitter.com/jeremy__nikolic)🚀
 - Kabir Nazir 🚀💡 => Twitter: [@kabir4691](https://twitter.com/kabir4691) 🐦
 - Vasantha Kumar 🚀💡 => Twitter: [@Vasantha_KumarJ](https://twitter.com/Vasantha_KumarJ)
 - Tony Phan 🚀💡 => Twitter: [@rallysport206](https://twitter.com/rallysport206) 🐦
@@ -136,3 +136,4 @@ Add your name and Twitter handle. 🐦
 - Astrit Malsija => Twitter: [@astritmalsija](https://twitter.com/astritmalsija)
 - Mateusz Wszola 🚀💡=> Twitter: [@MateuszWszola](https://twitter.com/MateuszWszola) 😎
 - Alin Pisica 🔥💡 => Twitter: [@AlinP25](https://twitter.com/AlinP25) 😸
+- Afraz Momin 🚀💡 => Twitter: [@afraz_momin](https://twitter.com/afraz_momin) 🐦
