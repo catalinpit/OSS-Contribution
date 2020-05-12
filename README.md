@@ -62,9 +62,9 @@ It should describe the purpose of your changes though. I chose that name because
 
 # STEP 4 - MAKE YOUR CHANGES ✍️
 
-Open the file called **README.md** and add your name and your Twitter handle.
-
-You should add that info at the end of [CONTRIBUTORS](#contributors-%f0%9f%a7%91%e2%80%8d%f0%9f%a4%9d%e2%80%8d%f0%9f%a7%91).
+1. Open the file called `README.md`
+1. Find the [CONTRIBUTORS](#contributors-) section.
+1. ### Add your name **RANDOMLY** in the list to avoid merge conflicts
 
 Once you have added your name and Twitter handle, run in your terminal:
 
@@ -106,6 +106,7 @@ Add your name and Twitter handle. 🐦
 - Oteri Eyenike 🚀💡 => Twitter: [@codeg0d](https://twitter.com/codeg0d) 🐦
 - Danny Wolff 🚀💡 => Twitter: [@Inshi78946780](https://twitter.com/Inshi78946780) 🐦
 - Minerva Long 🚀💡 => Twitter: [@vanesa_minerva](https://twitter.com/vanesa_minerva) 🐦
+- Benjamin Kinga 🚀💡 => Twitter: [@benjaminkinga1](https://twitter.com/BenjaminKinga1) 🐦
 - Samson Samuel 🚀💡 => Twitter: [@torsami77](https://twitter.com/torsami77) 🐦
 - Mahesh Jamdade 🚀💡 => Twitter: [@maheshmnj](https://twitter.com/maheshmnj) 💙
 - Waheed Afolabi 🚀💡 => Twitter: [@checkwithwaheed](https://twitter.com/checkwithwaheed) 🐦
@@ -124,3 +125,12 @@ Add your name and Twitter handle. 🐦
 - Jeremy Nikolic 🚀💡 => Twitter [@jeremy__nikolic](https://twitter.com/jeremy__nikolic)🚀
 - Kabir Nazir 🚀💡 => Twitter: [@kabir4691](https://twitter.com/kabir4691) 🐦
 - Vasantha Kumar 🚀💡 => Twitter: [@Vasantha_KumarJ](https://twitter.com/Vasantha_KumarJ)
+- Tony Phan 🚀💡 => Twitter: [@rallysport206](https://twitter.com/rallysport206) 🐦
+- Jerónimo Cosiío 🚀💡 => Twitter: [@jerocosio](https://twitter.com/jerocosio) 🐦
+- Oluwapelumi Amuzu 🚀💡 => Twitter: [@livingArete](https://twitter.com/livingarete) 🐦
+- Siim Männart 🚀💡=> Twitter: [@siim](https://twitter.com/siim) 🔥
+- Alexandra Caulea 🚀💡 => Twitter: [@alexandracaulea](https://twitter.com/alexandracaulea) 🐦
+- Sobhy => Twitter: [@ThisIsSobhy](https://twitter.com/ThisIsSobhy)
+- Astrit Malsija => Twitter: [@astritmalsija](https://twitter.com/astritmalsija)
+- Mateusz Wszola 🚀💡=> Twitter: [@MateuszWszola](https://twitter.com/MateuszWszola) 😎
+- Alin Pisica 🔥💡 => Twitter: [@AlinP25](https://twitter.com/AlinP25) 😸
