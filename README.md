@@ -105,6 +105,7 @@ Add your name and Twitter handle. 🐦
 - Catalin Pit 🚀💡 => Twitter: [@catalinmpit](https://twitter.com/catalinmpit) 🐦
 - Oteri Eyenike 🚀💡 => Twitter: [@codeg0d](https://twitter.com/codeg0d) 🐦
 - Danny Wolff 🚀💡 => Twitter: [@Inshi78946780](https://twitter.com/Inshi78946780) 🐦
+- Jerry Aaron 🚀💡 => Twitter: [@UncleJAA](https://twitter.com/UncleJAA)🐦
 - Minerva Long 🚀💡 => Twitter: [@vanesa_minerva](https://twitter.com/vanesa_minerva) 🐦
 - Samson Samuel 🚀💡 => Twitter: [@torsami77](https://twitter.com/torsami77) 🐦
 - Mahesh Jamdade 🚀💡 => Twitter: [@maheshmnj](https://twitter.com/maheshmnj) 💙
@@ -114,7 +115,6 @@ Add your name and Twitter handle. 🐦
 - Ishaan Sheikh 🚀💡=> Twitter: [@imishaan005](https://twitter.com/imishaan005)🐦
 - Omolewa Stephen 🚀💡=> Twitter: [@theslimsteve](https://twitter.com/theslimsteve)🐦
 - Cory Runnells 🚀💡=> Twitter: [@XRayBound](https://twitter.com/XRayBound)🐦
-- Jerry Aaron 🚀💡 => Twitter: [@UncleJAA](https://twitter.com/UncleJAA)
 - Wasif Baliyan 🚀💡=> Twitter: [@wasifbaliyan](https://twitter.com/wasifbaliyan)
 - Saif Ullah Sajid 🚀💡 => Twitter: [@saifcodes](https://twitter.com/saifcodes) 🐦
 - Matthew Terrill => Twitter: [@meterrill](https://twitter.com/meterrill)🐦
