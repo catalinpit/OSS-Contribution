@@ -114,6 +114,7 @@ Add your name and Twitter handle. 🐦
 - Ishaan Sheikh 🚀💡=> Twitter: [@imishaan005](https://twitter.com/imishaan005)🐦
 - Omolewa Stephen 🚀💡=> Twitter: [@theslimsteve](https://twitter.com/theslimsteve)🐦
 - Cory Runnells 🚀💡=> Twitter: [@XRayBound](https://twitter.com/XRayBound)🐦
+- Jerry Aaron 🚀💡 => Twitter: [@UncleJAA](https://twitter.com/UncleJAA)
 - Wasif Baliyan 🚀💡=> Twitter: [@wasifbaliyan](https://twitter.com/wasifbaliyan)
 - Saif Ullah Sajid 🚀💡 => Twitter: [@saifcodes](https://twitter.com/saifcodes) 🐦
 - Matthew Terrill => Twitter: [@meterrill](https://twitter.com/meterrill)🐦
@@ -130,4 +131,3 @@ Add your name and Twitter handle. 🐦
 - Sobhy => Twitter: [@ThisIsSobhy](https://twitter.com/ThisIsSobhy)
 - Astrit Malsija => Twitter: [@astritmalsija](https://twitter.com/astritmalsija)
 - Mateusz Wszola 🚀💡=> Twitter: [@MateuszWszola](https://twitter.com/MateuszWszola) 😎
-- Jerry Aaron => Twitter [@UncleJAA](https://twitter.com/UncleJAA)
