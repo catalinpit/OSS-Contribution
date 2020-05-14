@@ -20,7 +20,7 @@ For git basics & tips & tricks - [click me](https://github.com/catalinpit/git_ti
 
 # STEP 1 - FORK THIS REPOSITORY 🍴
 
-For this repository by clicking on the fork button.
+Fork this repository by clicking on the fork button.
 
 When you fork a repository, you simply create a copy the repo on your account.
 
@@ -34,7 +34,7 @@ To do so, go into the repo you just forked into your account, then click the but
 
 ![clone-example](https://i.imgur.com/M5s7H3C.png?1)
 
-Copy the link, and run this into your terminal:
+Copy the link, and run this in your terminal:
 
 `git clone <the-url-you-just-copied>`
 
