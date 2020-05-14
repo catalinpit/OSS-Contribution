@@ -123,6 +123,7 @@ Add your name and Twitter handle. 🐦
 - Dowen Robinson 🚀💡 => Twitter [@yuhmadda](https://twitter.com/yuhmadda)🐦
 - Fumi Adeyemi 🚀💡 => Twitter [@fumiadeyemi](https://twitter.com/fumiadeyemi)🐦
 - Tolulope Adetula 🚀💡 => Twitter [@_tolu_lope](https://twitter.com/_tolu_lope)🐦
+- Raviq Lahadi 🔥💡 => Twitter: [@raviqlahadi](https://twitter.com/raviqlahadi) 😸
 - Stefan Natter 🚀💡 => Twitter [@natterstefan](https://twitter.com/natterstefan)🐦
 - Christina Meador 🚀💡 => Twitter [@ChristinaM_Dev](https://twitter.com/ChristinaM_Dev)🐦
 - Jeremy Nikolic 🚀💡 => Twitter [@jeremy__nikolic](https://twitter.com/jeremy__nikolic)🚀
@@ -143,3 +144,4 @@ Add your name and Twitter handle. 🐦
 - Tochukwu Ali 🚀💡 => Twitter: [@tochukwuali3](https://twitter.com/tochukwuali3) 😎
 - Marco Beier 🔥💡 => Twitter: [@Wridgeu](https://twitter.com/Wridgeu) 😸
 - Ineza Bonté 🚀💡 => Twitter:[@inezabonte](https://twitter.com/inezabonte)🙂
+
