@@ -1,4 +1,4 @@
-# OSS-Contribution 🔥
+﻿# OSS-Contribution 🔥
 
 Learn how to contribute to open-source projects. 🚀
 
@@ -20,7 +20,7 @@ For git basics & tips & tricks - [click me](https://github.com/catalinpit/git_ti
 
 # STEP 1 - FORK THIS REPOSITORY 🍴
 
-Fork this repository by clicking on the fork button.
+For this repository by clicking on the fork button.
 
 When you fork a repository, you simply create a copy the repo on your account.
 
@@ -34,7 +34,7 @@ To do so, go into the repo you just forked into your account, then click the but
 
 ![clone-example](https://i.imgur.com/M5s7H3C.png?1)
 
-Copy the link, and run this in your terminal:
+Copy the link, and run this into your terminal:
 
 `git clone <the-url-you-just-copied>`
 
@@ -103,15 +103,11 @@ Go over my repos, and if you see any typos & programming bugs/errors, open a PR.
 Add your name and Twitter handle. 🐦
 
 - Catalin Pit 🚀💡 => Twitter: [@catalinmpit](https://twitter.com/catalinmpit) 🐦
-- Collins Cheruiyot 💻💡 => Twitter: [@cherucole](https://twitter.com/cherucole) ⚔️
-- Eddy Vinck 🚀💡 => Twitter: [@veinq_](https://twitter.com/veinq_) 🐦
 - Oteri Eyenike 🚀💡 => Twitter: [@codeg0d](https://twitter.com/codeg0d) 🐦
 - Danny Wolff 🚀💡 => Twitter: [@Inshi78946780](https://twitter.com/Inshi78946780) 🐦
 - Minerva Long 🚀💡 => Twitter: [@vanesa_minerva](https://twitter.com/vanesa_minerva) 🐦
-- Benjamin Kinga 🚀💡 => Twitter: [@benjaminkinga1](https://twitter.com/BenjaminKinga1) 🐦
 - Samson Samuel 🚀💡 => Twitter: [@torsami77](https://twitter.com/torsami77) 🐦
 - Mahesh Jamdade 🚀💡 => Twitter: [@maheshmnj](https://twitter.com/maheshmnj) 💙
-- Kenny John Jacob🚀💡 => Twitter: [@johnjacobkenny](https://twitter.com/johnjacobkenny) 🔥
 - Waheed Afolabi 🚀💡 => Twitter: [@checkwithwaheed](https://twitter.com/checkwithwaheed) 🐦
 - Milos Rancic 🚀💡 => Twitter: [@milos_rancic](https://twitter.com/milos_rancic) 🐦
 - Tharun Reddy 🚀💡=> Twitter: [@**tharun**](https://twitter.com/__tharun__)🐦
@@ -124,25 +120,14 @@ Add your name and Twitter handle. 🐦
 - Dowen Robinson 🚀💡 => Twitter [@yuhmadda](https://twitter.com/yuhmadda)🐦
 - Fumi Adeyemi 🚀💡 => Twitter [@fumiadeyemi](https://twitter.com/fumiadeyemi)🐦
 - Tolulope Adetula 🚀💡 => Twitter [@_tolu_lope](https://twitter.com/_tolu_lope)🐦
-- Raviq Lahadi 🔥💡 => Twitter: [@raviqlahadi](https://twitter.com/raviqlahadi) 😸
 - Stefan Natter 🚀💡 => Twitter [@natterstefan](https://twitter.com/natterstefan)🐦
-- Christina Meador 🚀💡 => Twitter [@ChristinaM_Dev](https://twitter.com/ChristinaM_Dev)🐦
 - Jeremy Nikolic 🚀💡 => Twitter [@jeremy__nikolic](https://twitter.com/jeremy__nikolic)🚀
 - Kabir Nazir 🚀💡 => Twitter: [@kabir4691](https://twitter.com/kabir4691) 🐦
-- Vasantha Kumar 🚀💡 => Twitter: [@Vasantha_KumarJ](https://twitter.com/Vasantha_KumarJ)
-- Tony Phan 🚀💡 => Twitter: [@rallysport206](https://twitter.com/rallysport206) 🐦
 - Jerónimo Cosiío 🚀💡 => Twitter: [@jerocosio](https://twitter.com/jerocosio) 🐦
 - Oluwapelumi Amuzu 🚀💡 => Twitter: [@livingArete](https://twitter.com/livingarete) 🐦
 - Siim Männart 🚀💡=> Twitter: [@siim](https://twitter.com/siim) 🔥
 - Alexandra Caulea 🚀💡 => Twitter: [@alexandracaulea](https://twitter.com/alexandracaulea) 🐦
-- Philippus Schindler 🚀💡 => Twitter: [@phil_on91](https://twitter.com/phil_on91)😎
 - Sobhy => Twitter: [@ThisIsSobhy](https://twitter.com/ThisIsSobhy)
-- Unai => 🚀💡 => Twitter: [@unaizuluaga](https://twitter.com/unaizuluaga) 🐦
 - Astrit Malsija => Twitter: [@astritmalsija](https://twitter.com/astritmalsija)
-- Mateusz Wszola 🚀💡=> Twitter: [@MateuszWszola](https://twitter.com/MateuszWszola) 😎
-- Himanshu Jain 🚀💡=> Twitter: [@being_himan](https://twitter.com/being_himan) 👨‍💻
-- Alin Pisica 🔥💡 => Twitter: [@AlinP25](https://twitter.com/AlinP25) 😸
-- Tochukwu Ali 🚀💡 => Twitter: [@tochukwuali3](https://twitter.com/tochukwuali3) 😎
-- Marco Beier 🔥💡 => Twitter: [@Wridgeu](https://twitter.com/Wridgeu) 😸
-- Ineza Bonté 🚀💡 => Twitter:[@inezabonte](https://twitter.com/inezabonte)🙂
-- Hendry Khoza 🚀💡 => Twitter:[@henkhodryza](https://twitter.com/henkhodryza)🦁
+- Mateusz Wszola 🚀💡=> Twitter: [@MateuszWszola](https://twitter.com/MateuszWszola) 🐦
+- Idris Badmus => Twitter: [@idrisbadmus](https://twitter.com/idrisbadmus)  😎
