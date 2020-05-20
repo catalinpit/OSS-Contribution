@@ -104,7 +104,7 @@ Add your name and Twitter handle. 🐦
 
 - Catalin Pit 🚀💡 => Twitter: [@catalinmpit](https://twitter.com/catalinmpit) 🐦
 - Collins Cheruiyot 💻💡 => Twitter: [@cherucole](https://twitter.com/cherucole) ⚔️
-- Eddy Vinck 🚀💡 => Twitter: [@veinq_](https://twitter.com/veinq_) 🐦
+- Eddy Vinck 🚀💡 => Twitter: [@veinq\_](https://twitter.com/veinq_) 🐦
 - Oteri Eyenike 🚀💡 => Twitter: [@codeg0d](https://twitter.com/codeg0d) 🐦
 - Danny Wolff 🚀💡 => Twitter: [@Inshi78946780](https://twitter.com/Inshi78946780) 🐦
 - Minerva Long 🚀💡 => Twitter: [@vanesa_minerva](https://twitter.com/vanesa_minerva) 🐦
@@ -115,6 +115,7 @@ Add your name and Twitter handle. 🐦
 - Waheed Afolabi 🚀💡 => Twitter: [@checkwithwaheed](https://twitter.com/checkwithwaheed) 🐦
 - Milos Rancic 🚀💡 => Twitter: [@milos_rancic](https://twitter.com/milos_rancic) 🐦
 - Tharun Reddy 🚀💡=> Twitter: [@**tharun**](https://twitter.com/__tharun__)🐦
+- Lawrence Narh-Lawson 🚀💡 => Twitter: [@NarhLawson](https://twitter.com/NarhLawson) 🐦
 - Ishaan Sheikh 🚀💡=> Twitter: [@imishaan005](https://twitter.com/imishaan005)🐦
 - Omolewa Stephen 🚀💡=> Twitter: [@theslimsteve](https://twitter.com/theslimsteve)🐦
 - Cory Runnells 🚀💡=> Twitter: [@XRayBound](https://twitter.com/XRayBound)🐦
@@ -123,11 +124,11 @@ Add your name and Twitter handle. 🐦
 - Matthew Terrill => Twitter: [@meterrill](https://twitter.com/meterrill)🐦
 - Dowen Robinson 🚀💡 => Twitter [@yuhmadda](https://twitter.com/yuhmadda)🐦
 - Fumi Adeyemi 🚀💡 => Twitter [@fumiadeyemi](https://twitter.com/fumiadeyemi)🐦
-- Tolulope Adetula 🚀💡 => Twitter [@_tolu_lope](https://twitter.com/_tolu_lope)🐦
+- Tolulope Adetula 🚀💡 => Twitter [@\_tolu_lope](https://twitter.com/_tolu_lope)🐦
 - Raviq Lahadi 🔥💡 => Twitter: [@raviqlahadi](https://twitter.com/raviqlahadi) 😸
 - Stefan Natter 🚀💡 => Twitter [@natterstefan](https://twitter.com/natterstefan)🐦
 - Christina Meador 🚀💡 => Twitter [@ChristinaM_Dev](https://twitter.com/ChristinaM_Dev)🐦
-- Jeremy Nikolic 🚀💡 => Twitter [@jeremy__nikolic](https://twitter.com/jeremy__nikolic)🚀
+- Jeremy Nikolic 🚀💡 => Twitter [@jeremy\_\_nikolic](https://twitter.com/jeremy__nikolic)🚀
 - Kabir Nazir 🚀💡 => Twitter: [@kabir4691](https://twitter.com/kabir4691) 🐦
 - Vasantha Kumar 🚀💡 => Twitter: [@Vasantha_KumarJ](https://twitter.com/Vasantha_KumarJ)
 - Tony Phan 🚀💡 => Twitter: [@rallysport206](https://twitter.com/rallysport206) 🐦
