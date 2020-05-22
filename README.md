@@ -114,6 +114,7 @@ Add your name and Twitter handle. 🐦
 - Kenny John Jacob🚀💡 => Twitter: [@johnjacobkenny](https://twitter.com/johnjacobkenny) 🔥
 - Waheed Afolabi 🚀💡 => Twitter: [@checkwithwaheed](https://twitter.com/checkwithwaheed) 🐦
 - Milos Rancic 🚀💡 => Twitter: [@milos_rancic](https://twitter.com/milos_rancic) 🐦
+- Stefanie Davis 🚀💡 => Twitter:[@steflikecurry](https://twitter.com/StefLikeCurry) ✌🏾
 - Tharun Reddy 🚀💡=> Twitter: [@**tharun**](https://twitter.com/__tharun__)🐦
 - Lawrence Narh-Lawson 🚀💡 => Twitter: [@NarhLawson](https://twitter.com/NarhLawson) 🐦
 - Ishaan Sheikh 🚀💡=> Twitter: [@imishaan005](https://twitter.com/imishaan005)🐦
