@@ -28,9 +28,9 @@ When you fork a repository, you simply create a copy the repo on your account.
 
 # STEP 2 - CLONE THE REPO 🛎️
 
-The next step is to clone the repository to your machine, so you can make changes.
+The next step is to clone the *original* repository to your machine, so you can make changes.
 
-To do so, go into the repo you just forked into your account, then click the button called **Clone or download**.
+To do so, go into the original repository (it will be linked from your fork), then click the button called **Clone or download**.
 
 ![clone-example](https://i.imgur.com/M5s7H3C.png?1)
 
@@ -38,11 +38,15 @@ Copy the link, and run this in your terminal:
 
 `git clone <the-url-you-just-copied>`
 
-In my case, it would be:
+In this case, it would be:
 
 `git clone https://github.com/catalinpit/OSS-Contribution.git`
 
-In your case, you would replace _catalinpit_ with your username.
+The next step is to add your fork as a remote. Go into your fork, and look for the **Clone or download** button. Copy the link and run:
+
+`git remote add my-fork <the-url-you-just-copied>`
+
+It will probably look like `https://github.com/<YOUR USERNAME>/OSS-Contribution.git`.
 
 # STEP 3 - CREATE A BRANCH 🌲
 
@@ -72,7 +76,9 @@ Once you have added your name and Twitter handle, run in your terminal:
 
 2. `git commit -m "Added my name and twitter handle"` (this represent the message that explains what you did)
 
-3. `git push origin <your-branch-name>` (push your changes to Github)
+3. `git push my-fork <your-branch-name>` (push your changes to Github)
+
+You are pushing the branch to `my-fork` because you do not have permission to push the branch to the original repository.
 
 # STEP 5 - OPEN A PULL REQUEST (PR) 🔍
 
@@ -91,6 +97,24 @@ Also, they review your code to make sure your code is optimal.
 3. Click on `Create pull request`.
 
 4. Wait for me to merge your changes to the master change. They will become live once I merge them.
+
+5. If someone else added their name, and it conflicts with yours, rebase your Pull Request:
+
+```
+git checkout master
+git pull --rebase
+git checkout <your-branch-name>
+git rebase master
+```
+
+You might have to resolve the conflicts using an editor.
+Then,
+
+```
+git push -f
+```
+
+The `-f` is necessary because you are rewriting history: you pretend you made your changes after the other name was added. This gives the project a linear history.
 
 **Congratulations!** This is the required Git workflow to contribute to open source projects.
 
@@ -146,3 +170,4 @@ Add your name and Twitter handle. 🐦
 - Marco Beier 🔥💡 => Twitter: [@Wridgeu](https://twitter.com/Wridgeu) 😸
 - Ineza Bonté 🚀💡 => Twitter:[@inezabonte](https://twitter.com/inezabonte)🙂
 - Hendry Khoza 🚀💡 => Twitter:[@henkhodryza](https://twitter.com/henkhodryza)🦁
+- Moshe Zadka => Twitter:[@moshezadka](https://twitter.com/moshezadka)
