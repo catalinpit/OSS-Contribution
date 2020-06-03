@@ -140,6 +140,7 @@ Add your name and Twitter handle. 🐦
 - Alexandra Caulea 🚀💡 => Twitter: [@alexandracaulea](https://twitter.com/alexandracaulea) 🐦
 - Philippus Schindler 🚀💡 => Twitter: [@phil_on91](https://twitter.com/phil_on91)😎
 - Sobhy => Twitter: [@ThisIsSobhy](https://twitter.com/ThisIsSobhy)
+- Cynthia Spence => Twitter: [@Cynthia47337663](https://twitter.com/Cynthia47337663)
 - Unai => 🚀💡 => Twitter: [@unaizuluaga](https://twitter.com/unaizuluaga) 🐦
 - Astrit Malsija => Twitter: [@astritmalsija](https://twitter.com/astritmalsija)
 - Mateusz Wszola 🚀💡=> Twitter: [@MateuszWszola](https://twitter.com/MateuszWszola) 😎
