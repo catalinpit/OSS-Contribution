@@ -145,6 +145,7 @@ Add your name and Twitter handle. 🐦
 - Astrit Malsija => Twitter: [@astritmalsija](https://twitter.com/astritmalsija)
 - Mateusz Wszola 🚀💡=> Twitter: [@MateuszWszola](https://twitter.com/MateuszWszola) 😎
 - Himanshu Jain 🚀💡=> Twitter: [@being_himan](https://twitter.com/being_himan) 👨‍💻
+- Nichola 🚀💡 => Twitter: [@nichola___](https://twitter.com/nichola___) 😸
 - Alin Pisica 🔥💡 => Twitter: [@AlinP25](https://twitter.com/AlinP25) 😸
 - Tochukwu Ali 🚀💡 => Twitter: [@tochukwuali3](https://twitter.com/tochukwuali3) 😎
 - Marco Beier 🔥💡 => Twitter: [@Wridgeu](https://twitter.com/Wridgeu) 😸
