@@ -124,6 +124,7 @@ Add your name and Twitter handle. 🐦
 - Wasif Baliyan 🚀💡=> Twitter: [@wasifbaliyan](https://twitter.com/wasifbaliyan)
 - Saif Ullah Sajid 🚀💡 => Twitter: [@saifcodes](https://twitter.com/saifcodes) 🐦
 - Matthew Terrill => Twitter: [@meterrill](https://twitter.com/meterrill)🐦
+- Alex Sartori ⚙ => Twitter: [@alex__sartori](https://twitter.com/alex__sartori) 🐦
 - Dowen Robinson 🚀💡 => Twitter [@yuhmadda](https://twitter.com/yuhmadda)🐦
 - Fumi Adeyemi 🚀💡 => Twitter [@fumiadeyemi](https://twitter.com/fumiadeyemi)🐦
 - Tolulope Adetula 🚀💡 => Twitter [@\_tolu_lope](https://twitter.com/_tolu_lope)🐦
