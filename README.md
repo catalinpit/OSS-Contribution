@@ -143,6 +143,7 @@ Add your name and Twitter handle. 🐦
 - Sobhy => Twitter: [@ThisIsSobhy](https://twitter.com/ThisIsSobhy)
 - Cynthia Spence => Twitter: [@Cynthia47337663](https://twitter.com/Cynthia47337663)
 - Unai => 🚀💡 => Twitter: [@unaizuluaga](https://twitter.com/unaizuluaga) 🐦
+- Patrick Odeke 🚀🚀 => Twitter: [@odkpatrick](https://twitter.com/odkpatrick) 🏄‍♂️
 - Astrit Malsija => Twitter: [@astritmalsija](https://twitter.com/astritmalsija)
 - Mateusz Wszola 🚀💡=> Twitter: [@MateuszWszola](https://twitter.com/MateuszWszola) 😎
 - Himanshu Jain 🚀💡=> Twitter: [@being_himan](https://twitter.com/being_himan) 👨‍💻
