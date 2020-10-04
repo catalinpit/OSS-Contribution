@@ -139,6 +139,7 @@ Add your name and Twitter handle. 🐦
 - Oluwapelumi Amuzu 🚀💡 => Twitter: [@livingArete](https://twitter.com/livingarete) 🐦
 - Siim Männart 🚀💡=> Twitter: [@siim](https://twitter.com/siim) 🔥
 - Alexandra Caulea 🚀💡 => Twitter: [@alexandracaulea](https://twitter.com/alexandracaulea) 🐦
+- Alejandro Parra 🚀💡 => Twitter: [@maparrar](https://twitter.com/maparrar) 😸
 - Philippus Schindler 🚀💡 => Twitter: [@phil_on91](https://twitter.com/phil_on91)😎
 - Sobhy => Twitter: [@ThisIsSobhy](https://twitter.com/ThisIsSobhy)
 - Cynthia Spence => Twitter: [@Cynthia47337663](https://twitter.com/Cynthia47337663)
