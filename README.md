@@ -135,10 +135,11 @@ Add your name and Twitter handle. 🐦
 - Kabir Nazir 🚀💡 => Twitter: [@kabir4691](https://twitter.com/kabir4691) 🐦
 - Vasantha Kumar 🚀💡 => Twitter: [@Vasantha_KumarJ](https://twitter.com/Vasantha_KumarJ)
 - Tony Phan 🚀💡 => Twitter: [@rallysport206](https://twitter.com/rallysport206) 🐦
+- Bajjuri Vinay Kumar 🚀💡 => Twitter: [@VinayBajjuri5](https://twitter.com/vinaybajjuri5)😎
 - Jerónimo Cosiío 🚀💡 => Twitter: [@jerocosio](https://twitter.com/jerocosio) 🐦
 - Oluwapelumi Amuzu 🚀💡 => Twitter: [@livingArete](https://twitter.com/livingarete) 🐦
 - Siim Männart 🚀💡=> Twitter: [@siim](https://twitter.com/siim) 🔥
-- Alexandra Caulea 🚀💡 => Twitter: [@alexandracaulea](https://twitter.com/alexandracaulea) 🐦
+- Alexandra Caulea 🚀💡 => Twitter: [@alexandracaulea](https://twitter.com/alexandracaulea) 🐦 
 - Philippus Schindler 🚀💡 => Twitter: [@phil_on91](https://twitter.com/phil_on91)😎
 - Sobhy => Twitter: [@ThisIsSobhy](https://twitter.com/ThisIsSobhy)
 - Cynthia Spence => Twitter: [@Cynthia47337663](https://twitter.com/Cynthia47337663)
