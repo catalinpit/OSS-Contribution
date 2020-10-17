@@ -105,6 +105,7 @@ Add your name and Twitter handle. 🐦
 - Catalin Pit 🚀💡 => Twitter: [@catalinmpit](https://twitter.com/catalinmpit) 🐦
 - Max Diamond 🤖🚀 => Twitter: [@dmdboi](https://twitter.com/dmdboi) 🐦
 - Collins Cheruiyot 💻💡 => Twitter: [@cherucole](https://twitter.com/cherucole) ⚔️
+- Ashish Mishra 💻💡 => Twitter: [@Mr_AshishM](https://twitter.com/Mr_AshishM) 💙
 - Eddy Vinck 🚀💡 => Twitter: [@veinq\_](https://twitter.com/veinq_) 🐦
 - Oteri Eyenike 🚀💡 => Twitter: [@codeg0d](https://twitter.com/codeg0d) 🐦
 - Danny Wolff 🚀💡 => Twitter: [@Inshi78946780](https://twitter.com/Inshi78946780) 🐦
