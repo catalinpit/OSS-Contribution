@@ -160,3 +160,4 @@ Add your name and Twitter handle. 🐦
 - Hendry Khoza 🚀💡 => Twitter:[@henkhodryza](https://twitter.com/henkhodryza)🦁
 - Kaya Chou-Kudu 🔥💡 => Twitter: [@Kaya_Mooon](https://twitter.com/Kaya_Mooon) 😸
 - Scott Jellen 🚀💡 => Twitter [@scottjellen](https://twitter.com/scottjellen)🚀
+- Tomi Adenekan => I don't have twitter but here is my [dev.to profile](https://dev.to/codejym) ( ͡° ͜ʖ ͡°)
