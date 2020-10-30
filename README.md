@@ -97,6 +97,7 @@ Also, they review your code to make sure your code is optimal.
 # EXTRA TIPS
 
 • Go over my repos, and if you see any typos & programming bugs/errors, open a PR. 
+
 • In case you DON'T HAVE LAPTOP then no need to worry about, there is similar client in ANDROID. DOWNLOAD TURMUX from playstore and it will act as similar CLI client 🥳
 
 
