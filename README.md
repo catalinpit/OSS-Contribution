@@ -105,15 +105,18 @@ Add your name and Twitter handle. 🐦
 - Catalin Pit 🚀💡 => Twitter: [@catalinmpit](https://twitter.com/catalinmpit) 🐦
 - Max Diamond 🤖🚀 => Twitter: [@dmdboi](https://twitter.com/dmdboi) 🐦
 - Collins Cheruiyot 💻💡 => Twitter: [@cherucole](https://twitter.com/cherucole) ⚔️
+- Ashish Mishra 💻💡 => Twitter: [@Mr_AshishM](https://twitter.com/Mr_AshishM) 💙
 - Eddy Vinck 🚀💡 => Twitter: [@veinq\_](https://twitter.com/veinq_) 🐦
 - Oteri Eyenike 🚀💡 => Twitter: [@codeg0d](https://twitter.com/codeg0d) 🐦
 - Danny Wolff 🚀💡 => Twitter: [@Inshi78946780](https://twitter.com/Inshi78946780) 🐦
+- Josh Javier 🍳☕ => Twitter: [@joshjavierr](https://twitter.com/joshjavierr)
 - Jaspar Ifesinachi 🔥💡 => Twiter: [@ifeabasi](https://twitter.com/ifeabasi) 🐥💙
 - Minerva Long 🚀💡 => Twitter: [@vanesa_minerva](https://twitter.com/vanesa_minerva) 🐦
 - Benjamin Kinga 🚀💡 => Twitter: [@benjaminkinga1](https://twitter.com/BenjaminKinga1) 🐦
 - Samson Samuel 🚀💡 => Twitter: [@torsami77](https://twitter.com/torsami77) 🐦
 - Mahesh Jamdade 🚀💡 => Twitter: [@maheshmnj](https://twitter.com/maheshmnj) 💙
 - Kenny John Jacob🚀💡 => Twitter: [@johnjacobkenny](https://twitter.com/johnjacobkenny) 🔥
+- Omar Estrada 🚀💡 => Twitter: [@ConceptsCurious](https://twitter.com/ConceptsCurious) 🐦
 - Waheed Afolabi 🚀💡 => Twitter: [@checkwithwaheed](https://twitter.com/checkwithwaheed) 🐦
 - Milos Rancic 🚀💡 => Twitter: [@milos_rancic](https://twitter.com/milos_rancic) 🐦
 - Stefanie Davis 🚀💡 => Twitter:[@steflikecurry](https://twitter.com/StefLikeCurry) ✌🏾
@@ -158,3 +161,4 @@ Add your name and Twitter handle. 🐦
 - Kaya Chou-Kudu 🔥💡 => Twitter: [@Kaya_Mooon](https://twitter.com/Kaya_Mooon) 😸
 - Abdul Wassay 🔥💡 => Twitter: [@sonof_sardar](https://twitter.com/sonof_sardar) 😎
 - Scott Jellen 🚀💡 => Twitter [@scottjellen](https://twitter.com/scottjellen
+- Scott Jellen 🚀💡 => Twitter [@scottjellen](https://twitter.com/scottjellen)🚀
