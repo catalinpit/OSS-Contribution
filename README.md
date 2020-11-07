@@ -24,7 +24,7 @@ Fork this repository by clicking on the fork button.
 
 When you fork a repository, you simply create a copy the repo on your account.
 
-![fork-example](https://i.imgur.com/25zTC2z.png)
+![fork-example](https://i.imgur.com/0VT9z47.png)
 
 # STEP 2 - CLONE THE REPO 🛎️
 
