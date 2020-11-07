@@ -30,9 +30,9 @@ When you fork a repository, you simply create a copy the repo on your account.
 
 The next step is to clone the repository to your machine, so you can make changes.
 
-To do so, go into the repo you just forked into your account, then click the button called **Clone or download**.
+To do so, go into the repo you just forked into your account, then click the button called **Code**.
 
-![clone-example](https://i.imgur.com/M5s7H3C.png?1)
+![clone-example](https://i.imgur.com/qkD7tpS.png?1)
 
 Copy the link, and run this in your terminal:
 
