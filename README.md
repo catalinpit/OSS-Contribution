@@ -82,11 +82,11 @@ Also, they review your code to make sure your code is optimal.
 
 1. Once you pushed your changes to Github, go to the repo and click on `Compare & pull request`.
 
-![open-pr](https://i.imgur.com/PsG0WtD.png)
+![open-pr](https://i.imgur.com/uSAk1Ir.png)
 
 2. Add a descriptive title and description
 
-![open-pr](https://i.imgur.com/Wq0SeLA.png?1)
+![open-pr](https://i.imgur.com/LHTS6iy.png?1)
 
 3. Click on `Create pull request`.
 
