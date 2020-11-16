@@ -160,4 +160,4 @@ Add your name and Twitter handle. 🐦
 - Hendry Khoza 🚀💡 => Twitter:[@henkhodryza](https://twitter.com/henkhodryza)🦁
 - Kaya Chou-Kudu 🔥💡 => Twitter: [@Kaya_Mooon](https://twitter.com/Kaya_Mooon) 😸
 - Scott Jellen 🚀💡 => Twitter [@scottjellen](https://twitter.com/scottjellen)🚀
-- Manpreet Singh 🔥💡 => Instagram [@lethal_swag](https://instagram.com/lethal_swag)🚀
+- Manpreet Singh 🔥💡 => Instagram [@lethal_swag](https://instagram.com/lethal_swag)🚀 M
