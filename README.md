@@ -131,6 +131,7 @@ Add your name and Twitter handle. 🐦
 - Alex Sartori ⚙ => Twitter: [@alex__sartori](https://twitter.com/alex__sartori) 🐦
 - Dowen Robinson 🚀💡 => Twitter [@yuhmadda](https://twitter.com/yuhmadda)🐦
 - Fumi Adeyemi 🚀💡 => Twitter [@fumiadeyemi](https://twitter.com/fumiadeyemi)🐦
+- Chinemere Chukwu 🚀💡 => Twitter [@codemistress1](https://twitter.com/codemistress1)🐦
 - Tolulope Adetula 🚀💡 => Twitter [@\_tolu_lope](https://twitter.com/_tolu_lope)🐦
 - Raviq Lahadi 🔥💡 => Twitter: [@raviqlahadi](https://twitter.com/raviqlahadi) 😸
 - Stefan Natter 🚀💡 => Twitter [@natterstefan](https://twitter.com/natterstefan)🐦
