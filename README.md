@@ -112,6 +112,7 @@ Add your name and Twitter handle. 🐦
 - Josh Javier 🍳☕ => Twitter: [@joshjavierr](https://twitter.com/joshjavierr)
 - Jaspar Ifesinachi 🔥💡 => Twiter: [@ifeabasi](https://twitter.com/ifeabasi) 🐥💙
 - Minerva Long 🚀💡 => Twitter: [@vanesa_minerva](https://twitter.com/vanesa_minerva) 🐦
+- Paresh Patil 🚀💡 => Twitter: [@patilparesh100](https://twitter.com/patilparesh100) 🐦
 - Benjamin Kinga 🚀💡 => Twitter: [@benjaminkinga1](https://twitter.com/BenjaminKinga1) 🐦
 - Samson Samuel 🚀💡 => Twitter: [@torsami77](https://twitter.com/torsami77) 🐦
 - Mahesh Jamdade 🚀💡 => Twitter: [@maheshmnj](https://twitter.com/maheshmnj) 💙
@@ -128,7 +129,7 @@ Add your name and Twitter handle. 🐦
 - Wasif Baliyan 🚀💡=> Twitter: [@wasifbaliyan](https://twitter.com/wasifbaliyan)
 - Saif Ullah Sajid 🚀💡 => Twitter: [@saifcodes](https://twitter.com/saifcodes) 🐦
 - Matthew Terrill => Twitter: [@meterrill](https://twitter.com/meterrill)🐦
-- Alex Sartori ⚙ => Twitter: [@alex__sartori](https://twitter.com/alex__sartori) 🐦
+- Alex Sartori ⚙ => Twitter: [@alex\_\_sartori](https://twitter.com/alex__sartori) 🐦
 - Dowen Robinson 🚀💡 => Twitter [@yuhmadda](https://twitter.com/yuhmadda)🐦
 - Fumi Adeyemi 🚀💡 => Twitter [@fumiadeyemi](https://twitter.com/fumiadeyemi)🐦
 - Tolulope Adetula 🚀💡 => Twitter [@\_tolu_lope](https://twitter.com/_tolu_lope)🐦
@@ -152,7 +153,7 @@ Add your name and Twitter handle. 🐦
 - Astrit Malsija => Twitter: [@astritmalsija](https://twitter.com/astritmalsija)
 - Mateusz Wszola 🚀💡=> Twitter: [@MateuszWszola](https://twitter.com/MateuszWszola) 😎
 - Himanshu Jain 🚀💡=> Twitter: [@being_himan](https://twitter.com/being_himan) 👨‍💻
-- Nichola 🚀💡 => Twitter: [@nichola___](https://twitter.com/nichola___) 😸
+- Nichola 🚀💡 => Twitter: [@nichola\_\_\_](https://twitter.com/nichola___) 😸
 - Alin Pisica 🔥💡 => Twitter: [@AlinP25](https://twitter.com/AlinP25) 😸
 - Tochukwu Ali 🚀💡 => Twitter: [@tochukwuali3](https://twitter.com/tochukwuali3) 😎
 - Marco Beier 🔥💡 => Twitter: [@Wridgeu](https://twitter.com/Wridgeu) 😸
