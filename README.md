@@ -118,6 +118,7 @@ Add your name and Twitter handle. 🐦
 - Kenny John Jacob🚀💡 => Twitter: [@johnjacobkenny](https://twitter.com/johnjacobkenny) 🔥
 - Omar Estrada 🚀💡 => Twitter: [@ConceptsCurious](https://twitter.com/ConceptsCurious) 🐦
 - Waheed Afolabi 🚀💡 => Twitter: [@checkwithwaheed](https://twitter.com/checkwithwaheed) 🐦
+- Catalin Pit 🚀💡 => Twitter: [@catalinmpit](https://twitter.com/catalinmpit) 🐦
 - Milos Rancic 🚀💡 => Twitter: [@milos_rancic](https://twitter.com/milos_rancic) 🐦
 - Stefanie Davis 🚀💡 => Twitter:[@steflikecurry](https://twitter.com/StefLikeCurry) ✌🏾
 - Tharun Reddy 🚀💡=> Twitter: [@**tharun**](https://twitter.com/__tharun__)🐦
