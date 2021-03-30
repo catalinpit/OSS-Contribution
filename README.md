@@ -114,6 +114,7 @@ Add your name and Twitter handle. 🐦
 - Jaspar Ifesinachi 🔥💡 => Twiter: [@ifeabasi](https://twitter.com/ifeabasi) 🐥💙
 - Minerva Long 🚀💡 => Twitter: [@vanesa_minerva](https://twitter.com/vanesa_minerva) 🐦
 - Benjamin Kinga 🚀💡 => Twitter: [@benjaminkinga1](https://twitter.com/BenjaminKinga1) 🐦
+- Prajwal Poojary 🔥🚀 => Twitter: [@prajwalbpoojary](https://twitter.com/prajwalbpoojary) 🐦
 - Samson Samuel 🚀💡 => Twitter: [@torsami77](https://twitter.com/torsami77) 🐦
 - Mahesh Jamdade 🚀💡 => Twitter: [@maheshmnj](https://twitter.com/maheshmnj) 💙
 - Kenny John Jacob🚀💡 => Twitter: [@johnjacobkenny](https://twitter.com/johnjacobkenny) 🔥
