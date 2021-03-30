@@ -103,6 +103,7 @@ Go over my repos, and if you see any typos & programming bugs/errors, open a PR.
 Add your name and Twitter handle. 🐦
 
 - Catalin Pit 🚀💡 => Twitter: [@catalinmpit](https://twitter.com/catalinmpit) 🐦
+- Vikas Ganiga 🚀💡 => Twitter: [@vikasganiga05](https://twitter.com/vikasganiga05) 🐦
 - Max Diamond 🤖🚀 => Twitter: [@dmdboi](https://twitter.com/dmdboi) 🐦
 - Collins Cheruiyot 💻💡 => Twitter: [@cherucole](https://twitter.com/cherucole) ⚔️
 - Ashish Mishra 💻💡 => Twitter: [@Mr_AshishM](https://twitter.com/Mr_AshishM) 💙
