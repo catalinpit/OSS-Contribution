@@ -150,6 +150,7 @@ Add your name and Twitter handle. 🐦
 - Philippus Schindler 🚀💡 => Twitter: [@phil_on91](https://twitter.com/phil_on91)😎
 - Sobhy => Twitter: [@ThisIsSobhy](https://twitter.com/ThisIsSobhy)
 - Cynthia Spence => Twitter: [@Cynthia47337663](https://twitter.com/Cynthia47337663)
+- Bazzan => Twitter: [@mrbazzan](https://twitter.com/mrbazzan) 😐
 - Unai => 🚀💡 => Twitter: [@unaizuluaga](https://twitter.com/unaizuluaga) 🐦
 - Patrick Odeke 🚀🚀 => Twitter: [@odkpatrick](https://twitter.com/odkpatrick) 🏄‍♂️
 - Astrit Malsija => Twitter: [@astritmalsija](https://twitter.com/astritmalsija)
