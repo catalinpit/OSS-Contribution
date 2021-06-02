@@ -133,6 +133,7 @@ Add your name and Twitter handle. 🐦
 - Matthew Terrill => Twitter: [@meterrill](https://twitter.com/meterrill)🐦
 - Alex Sartori ⚙ => Twitter: [@alex__sartori](https://twitter.com/alex__sartori) 🐦
 - Dowen Robinson 🚀💡 => Twitter [@yuhmadda](https://twitter.com/yuhmadda)🐦
+- Tabitha O'Melay => Twitter: [@tabby__katz](https://twitter.com/tabby__katz)
 - Fumi Adeyemi 🚀💡 => Twitter [@fumiadeyemi](https://twitter.com/fumiadeyemi)🐦
 - Tolulope Adetula 🚀💡 => Twitter [@\_tolu_lope](https://twitter.com/_tolu_lope)🐦
 - Raviq Lahadi 🔥💡 => Twitter: [@raviqlahadi](https://twitter.com/raviqlahadi) 😸
