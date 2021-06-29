@@ -101,7 +101,7 @@ Go over my repos, and if you see any typos & programming bugs/errors, open a PR.
 # CONTRIBUTORS 🧑‍🤝‍🧑
 
 Add your name and Twitter handle. 🐦
-
+- Themba chali = Twitter: [@Thembachali]
 - Piyush Patil🚀💡 => Twitter: [@Piyush67372814](https://twitter.com/Piyush67372814) 🐦
 - Catalin Pit 🚀💡 => Twitter: [@catalinmpit](https://twitter.com/catalinmpit) 🐦
 - Vikas Ganiga 🚀💡 => Twitter: [@vikasganiga05](https://twitter.com/vikasganiga05) 🐦
