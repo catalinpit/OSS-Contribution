@@ -131,9 +131,9 @@ Add your name and Twitter handle. 🐦
 - Wasif Baliyan 🚀💡=> Twitter: [@wasifbaliyan](https://twitter.com/wasifbaliyan)
 - Saif Ullah Sajid 🚀💡 => Twitter: [@saifcodes](https://twitter.com/saifcodes) 🐦
 - Matthew Terrill => Twitter: [@meterrill](https://twitter.com/meterrill)🐦
-- Alex Sartori ⚙ => Twitter: [@alex__sartori](https://twitter.com/alex__sartori) 🐦
+- Alex Sartori ⚙ => Twitter: [@alex\_\_sartori](https://twitter.com/alex__sartori) 🐦
 - Dowen Robinson 🚀💡 => Twitter [@yuhmadda](https://twitter.com/yuhmadda)🐦
-- Tabitha O'Melay => Twitter: [@tabby__katz](https://twitter.com/tabby__katz)
+- Tabitha O'Melay => Twitter: [@tabby\_\_katz](https://twitter.com/tabby__katz)
 - Fumi Adeyemi 🚀💡 => Twitter [@fumiadeyemi](https://twitter.com/fumiadeyemi)🐦
 - Tolulope Adetula 🚀💡 => Twitter [@\_tolu_lope](https://twitter.com/_tolu_lope)🐦
 - Raviq Lahadi 🔥💡 => Twitter: [@raviqlahadi](https://twitter.com/raviqlahadi) 😸
@@ -156,7 +156,7 @@ Add your name and Twitter handle. 🐦
 - Astrit Malsija => Twitter: [@astritmalsija](https://twitter.com/astritmalsija)
 - Mateusz Wszola 🚀💡=> Twitter: [@MateuszWszola](https://twitter.com/MateuszWszola) 😎
 - Himanshu Jain 🚀💡=> Twitter: [@being_himan](https://twitter.com/being_himan) 👨‍💻
-- Nichola 🚀💡 => Twitter: [@nichola___](https://twitter.com/nichola___) 😸
+- Nichola 🚀💡 => Twitter: [@nichola\_\_\_](https://twitter.com/nichola___) 😸
 - Yasser Tahiri 🚀💡 => Twitter: [@THyasser1](https://twitter.com/THyasser1) 🐦
 - Alin Pisica 🔥💡 => Twitter: [@AlinP25](https://twitter.com/AlinP25) 😸
 - Tochukwu Ali 🚀💡 => Twitter: [@tochukwuali3](https://twitter.com/tochukwuali3) 😎
@@ -165,5 +165,6 @@ Add your name and Twitter handle. 🐦
 - Hendry Khoza 🚀💡 => Twitter:[@henkhodryza](https://twitter.com/henkhodryza)🦁
 - Kaya Chou-Kudu 🔥💡 => Twitter: [@Kaya_Mooon](https://twitter.com/Kaya_Mooon) 😸
 - Scott Jellen 🚀💡 => Twitter [@scottjellen](https://twitter.com/scottjellen)🚀
-- Paolo Urciullo 🎢🐱‍👤 => Twitter: [@paolo__init__](https://twitter.com/paolo__init__) 👍
+- Paolo Urciullo 🎢🐱‍👤 => Twitter: [@paolo**init**](https://twitter.com/paolo__init__) 👍
+- Robin Kartikeya Khatri 💻🍕 => Twitter: [@robinkartikeya](https://twitter.com/robinkartikeya)🚀
 - Syed Hamza Hoda 🎢🐱‍👤🚀💡👍
