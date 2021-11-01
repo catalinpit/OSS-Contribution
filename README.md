@@ -135,6 +135,7 @@ Add your name and Twitter handle. 🐦
 - Dowen Robinson 🚀💡 => Twitter [@yuhmadda](https://twitter.com/yuhmadda)🐦
 - Tabitha O'Melay => Twitter: [@tabby__katz](https://twitter.com/tabby__katz)
 - Fumi Adeyemi 🚀💡 => Twitter [@fumiadeyemi](https://twitter.com/fumiadeyemi)🐦
+- Wale Akinseye 🚀💡 => Twitter [@dewhallez](https://twitter.com/dewhallez) 🔥😎
 - Tolulope Adetula 🚀💡 => Twitter [@\_tolu_lope](https://twitter.com/_tolu_lope)🐦
 - Raviq Lahadi 🔥💡 => Twitter: [@raviqlahadi](https://twitter.com/raviqlahadi) 😸
 - Stefan Natter 🚀💡 => Twitter [@natterstefan](https://twitter.com/natterstefan)🐦
