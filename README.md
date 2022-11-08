@@ -107,8 +107,9 @@ Add your name and Twitter handle. 🐦
 - Vikas Ganiga 🚀💡 => Twitter: [@vikasganiga05](https://twitter.com/vikasganiga05) 🐦
 - Max Diamond 🤖🚀 => Twitter: [@dmdboi](https://twitter.com/dmdboi) 🐦
 - Collins Cheruiyot 💻💡 => Twitter: [@cherucole](https://twitter.com/cherucole) ⚔️
-- Ashish Mishra 💻💡 => Twitter: [@Mr_AshishM](https://twitter.com/Mr_AshishM) 💙
+- Ashish Mishra 💻💡 => Twitter: [@Mr_AshishM](https://twitter.com/Mr_AshishM) 💙s
 - Eddy Vinck 🚀💡 => Twitter: [@veinq\_](https://twitter.com/veinq_) 🐦
+- Abdur Rafay => Twitter: [@Rafayrais1](https://twitter.com/Rafayrais1) ✌👀🐱‍🏍🔥
 - Oteri Eyenike 🚀💡 => Twitter: [@codeg0d](https://twitter.com/codeg0d) 🐦
 - Danny Wolff 🚀💡 => Twitter: [@Inshi78946780](https://twitter.com/Inshi78946780) 🐦
 - Josh Javier 🍳☕ => Twitter: [@joshjavierr](https://twitter.com/joshjavierr)
