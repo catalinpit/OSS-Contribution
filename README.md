@@ -145,7 +145,6 @@ Add your name and Twitter handle. 🐦
 - Tony Phan 🚀💡 => Twitter: [@rallysport206](https://twitter.com/rallysport206) 🐦
 - Jerónimo Cosiío 🚀💡 => Twitter: [@jerocosio](https://twitter.com/jerocosio) 🐦
 - Oluwapelumi Amuzu 🚀💡 => Twitter: [@livingArete](https://twitter.com/livingarete) 🐦
-- Siim Männart 🚀💡=> Twitter: [@siim](https://twitter.com/siim) 🔥
 - Terry L Sanders => Twitter: [@Joeybtfsplk](https://twitter.com/Joeybtfsplk)
 - Alexandra Caulea 🚀💡 => Twitter: [@alexandracaulea](https://twitter.com/alexandracaulea) 🐦
 - Philippus Schindler 🚀💡 => Twitter: [@phil_on91](https://twitter.com/phil_on91)😎
