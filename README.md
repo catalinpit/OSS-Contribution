@@ -110,6 +110,7 @@ Add your name and Twitter handle. 🐦
 - Ashish Mishra 💻💡 => Twitter: [@Mr_AshishM](https://twitter.com/Mr_AshishM) 💙
 - Eddy Vinck 🚀💡 => Twitter: [@veinq\_](https://twitter.com/veinq_) 🐦
 - Oteri Eyenike 🚀💡 => Twitter: [@codeg0d](https://twitter.com/codeg0d) 🐦
+- Franco Rojas 🤖 🔥 => Twitter: [@FRRJPR] (https://twitter.com/FRRJPR) 🐦
 - Danny Wolff 🚀💡 => Twitter: [@Inshi78946780](https://twitter.com/Inshi78946780) 🐦
 - Josh Javier 🍳☕ => Twitter: [@joshjavierr](https://twitter.com/joshjavierr)
 - Jaspar Ifesinachi 🔥💡 => Twiter: [@ifeabasi](https://twitter.com/ifeabasi) 🐥💙
