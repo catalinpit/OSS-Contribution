@@ -142,6 +142,7 @@ Add your name and Twitter handle. 🐦
 - Jeremy Nikolic 🚀💡 => Twitter [@jeremy\_\_nikolic](https://twitter.com/jeremy__nikolic)🚀
 - Kabir Nazir 🚀💡 => Twitter: [@kabir4691](https://twitter.com/kabir4691) 🐦
 - Vasantha Kumar 🚀💡 => Twitter: [@Vasantha_KumarJ](https://twitter.com/Vasantha_KumarJ)
+- Federico Taborda 🚀💡 => Twitter: [@panterx95](https://twitter.com/panterx95)
 - Tony Phan 🚀💡 => Twitter: [@rallysport206](https://twitter.com/rallysport206) 🐦
 - Jerónimo Cosiío 🚀💡 => Twitter: [@jerocosio](https://twitter.com/jerocosio) 🐦
 - Oluwapelumi Amuzu 🚀💡 => Twitter: [@livingArete](https://twitter.com/livingarete) 🐦
