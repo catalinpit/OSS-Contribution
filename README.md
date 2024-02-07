@@ -104,6 +104,7 @@ Add your name and Twitter handle. 🐦
 
 - Piyush Patil🚀💡 => Twitter: [@Piyush67372814](https://twitter.com/Piyush67372814) 🐦
 - Catalin Pit 🚀💡 => Twitter: [@catalinmpit](https://twitter.com/catalinmpit) 🐦
+- Emre Güler 🚀💻 => Twitter: [@e_glrr](https://twitter.com/e_glrr)☕
 - Vikas Ganiga 🚀💡 => Twitter: [@vikasganiga05](https://twitter.com/vikasganiga05) 🐦
 - Max Diamond 🤖🚀 => Twitter: [@dmdboi](https://twitter.com/dmdboi) 🐦
 - Collins Cheruiyot 💻💡 => Twitter: [@cherucole](https://twitter.com/cherucole) ⚔️
