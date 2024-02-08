@@ -155,6 +155,7 @@ Add your name and Twitter handle. 🐦
 - Patrick Odeke 🚀🚀 => Twitter: [@odkpatrick](https://twitter.com/odkpatrick) 🏄‍♂️
 - Astrit Malsija => Twitter: [@astritmalsija](https://twitter.com/astritmalsija)
 - Mateusz Wszola 🚀💡=> Twitter: [@MateuszWszola](https://twitter.com/MateuszWszola) 😎
+- Pramesh Karki 🚀💡=> Twitter:[@PrameshKarki07](https://twitter.com/PrameshKarki07 ) 😎
 - Himanshu Jain 🚀💡=> Twitter: [@being_himan](https://twitter.com/being_himan) 👨‍💻
 - Nichola 🚀💡 => Twitter: [@nichola___](https://twitter.com/nichola___) 😸
 - Yasser Tahiri 🚀💡 => Twitter: [@THyasser1](https://twitter.com/THyasser1) 🐦
