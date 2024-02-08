@@ -113,6 +113,7 @@ Add your name and Twitter handle. 🐦
 - Danny Wolff 🚀💡 => Twitter: [@Inshi78946780](https://twitter.com/Inshi78946780) 🐦
 - Josh Javier 🍳☕ => Twitter: [@joshjavierr](https://twitter.com/joshjavierr)
 - Jaspar Ifesinachi 🔥💡 => Twiter: [@ifeabasi](https://twitter.com/ifeabasi) 🐥💙
+- Aniket Bhunia 🔥🚀 => Twiter: [@AniketBhunia12](https://twitter.com/AniketBhunia12) 🐦
 - Minerva Long 🚀💡 => Twitter: [@vanesa_minerva](https://twitter.com/vanesa_minerva) 🐦
 - Benjamin Kinga 🚀💡 => Twitter: [@benjaminkinga1](https://twitter.com/BenjaminKinga1) 🐦
 - Prajwal Poojary 🔥🚀 => Twitter: [@prajwalbpoojary](https://twitter.com/prajwalbpoojary) 🐦
