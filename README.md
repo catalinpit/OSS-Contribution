@@ -120,6 +120,7 @@ Add your name and Twitter handle. 🐦
 - Mahesh Jamdade 🚀💡 => Twitter: [@maheshmnj](https://twitter.com/maheshmnj) 💙
 - Kenny John Jacob🚀💡 => Twitter: [@johnjacobkenny](https://twitter.com/johnjacobkenny) 🔥
 - Omar Estrada 🚀💡 => Twitter: [@ConceptsCurious](https://twitter.com/ConceptsCurious) 🐦
+- Deepam Mali => Twitter: [@deepammali](https://twitter.com/deepammali)
 - Waheed Afolabi 🚀💡 => Twitter: [@checkwithwaheed](https://twitter.com/checkwithwaheed) 🐦
 - Milos Rancic 🚀💡 => Twitter: [@milos_rancic](https://twitter.com/milos_rancic) 🐦
 - Stefanie Davis 🚀💡 => Twitter:[@steflikecurry](https://twitter.com/StefLikeCurry) ✌🏾
