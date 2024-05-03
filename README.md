@@ -122,6 +122,7 @@ Add your name and Twitter handle. 🐦
 - Omar Estrada 🚀💡 => Twitter: [@ConceptsCurious](https://twitter.com/ConceptsCurious) 🐦
 - Waheed Afolabi 🚀💡 => Twitter: [@checkwithwaheed](https://twitter.com/checkwithwaheed) 🐦
 - Milos Rancic 🚀💡 => Twitter: [@milos_rancic](https://twitter.com/milos_rancic) 🐦
+- Tim Bryant 🚀💡 => Twitter: [@timmyb824](https://twitter.com/timmyb824) 🔥
 - Stefanie Davis 🚀💡 => Twitter:[@steflikecurry](https://twitter.com/StefLikeCurry) ✌🏾
 - Tharun Reddy 🚀💡=> Twitter: [@**tharun**](https://twitter.com/__tharun__)🐦
 - Lawrence Narh-Lawson 🚀💡 => Twitter: [@NarhLawson](https://twitter.com/NarhLawson) 🐦
