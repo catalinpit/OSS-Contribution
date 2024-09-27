@@ -164,6 +164,8 @@ Add your name and Twitter handle. 🐦
 - Ineza Bonté 🚀💡 => Twitter:[@inezabonte](https://twitter.com/inezabonte)🙂
 - Hendry Khoza 🚀💡 => Twitter:[@henkhodryza](https://twitter.com/henkhodryza)🦁
 - Kaya Chou-Kudu 🔥💡 => Twitter: [@Kaya_Mooon](https://twitter.com/Kaya_Mooon) 😸
+- Abdul Wassay 🔥💡 => Twitter: [@sonof_sardar](https://twitter.com/sonof_sardar) 😎
+- Scott Jellen 🚀💡 => Twitter [@scottjellen](https://twitter.com/scottjellen
 - Scott Jellen 🚀💡 => Twitter [@scottjellen](https://twitter.com/scottjellen)🚀
 - Paolo Urciullo 🎢🐱‍👤 => Twitter: [@paolo__init__](https://twitter.com/paolo__init__) 👍
 - Syed Hamza Hoda 🎢🐱‍👤🚀💡👍
