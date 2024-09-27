@@ -161,6 +161,7 @@ Add your name and Twitter handle. 🐦
 - Alin Pisica 🔥💡 => Twitter: [@AlinP25](https://twitter.com/AlinP25) 😸
 - Tochukwu Ali 🚀💡 => Twitter: [@tochukwuali3](https://twitter.com/tochukwuali3) 😎
 - Marco Beier 🔥💡 => Twitter: [@Wridgeu](https://twitter.com/Wridgeu) 😸
+- Edward Jaja 🔥💡 => Twitter: [@eejaja77_jaja](https://twitter.com/eejaja77_jaja) 😸
 - Ineza Bonté 🚀💡 => Twitter:[@inezabonte](https://twitter.com/inezabonte)🙂
 - Hendry Khoza 🚀💡 => Twitter:[@henkhodryza](https://twitter.com/henkhodryza)🦁
 - Kaya Chou-Kudu 🔥💡 => Twitter: [@Kaya_Mooon](https://twitter.com/Kaya_Mooon) 😸
